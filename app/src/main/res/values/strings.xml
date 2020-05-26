@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyUserInterface</string>
+    <string name="textView">TextView</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <string name="button4">Button</string>
+    <string name="button5">Button</string>
+    <string name="button6">Button</string>
+    <string name="button7">Button</string>
+    <string name="button8">Button</string>
+    <string name="button9">GridButton</string>
+    <string name="I_am_long_changed_by_button7">I am long changed by button7</string>
+    <string name="I_am_long_changed_by_button6">I am long changed by button6</string>
+    <string name="I_am_long_changed_by_button5">I am long changed by button5</string>
+    <string name="I_am_long_changed_by_button4">I am long changed by button4</string>
+    <string name="I_am_long_changed_by_button3">I am long changed by button3</string>
+    <string name="I_am_long_changed_by_butotn2">I am long changed by button2</string>
+    <string name="I_am_long_changed_by_button1">I am long changed by button1</string>
+    <string name="I_am_changed_by_Button7">I am changed by button7</string>
+    <string name="I_am_changed_by_button6">I am changed by button6</string>
+    <string name="I_am_changed_by_button5">I am changed by button5</string>
+    <string name="I_am_changed_by_button4">I am changed by button4</string>
+    <string name="I_am_changed_by_button1">I am changed by button1</string>
+    <string name="I_am_changed_by_button2">I am changed by button2</string>
+    <string name="I_am_changed_by_button3">I am changed by button3</string>
+</resources>
